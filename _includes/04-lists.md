@@ -1,4 +1,4 @@
 AREA OF INTEREST
-[] PYTHON
-[] C
-[] JAVA
+-PYTHON
+-C
+-JAVA
