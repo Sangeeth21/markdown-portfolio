@@ -1,1 +1,1 @@
-![PORTFOLIO PIC](https://images.pexels.com/photos/1545743/pexels-photo-1545743.jpeg)
+![PORTFOLIO PIC]("C:\Users\vishn\Pictures\IMG_20210628_142201.jpg")
